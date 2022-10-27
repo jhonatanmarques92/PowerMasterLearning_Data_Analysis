@@ -33,3 +33,8 @@ As análises tiveram os seguintes resultados:
 <img src="https://github.com/jhonatanmarques92/PowerMasterLearning_Data_Analysis/blob/main/img/valor_ano.png">
 <img src="https://github.com/jhonatanmarques92/PowerMasterLearning_Data_Analysis/blob/main/img/media_segmento.png">
 
+Para finalizar, o dashboard foi criado no Streamlit
+
+
+https://user-images.githubusercontent.com/49005736/198161730-6da2efdc-e2bf-4fd2-a258-b0f73f304ef3.mp4
+
